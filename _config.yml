@@ -1,6 +1,7 @@
 domain: xyriz.com
 url: https://www.xyriz.com
 theme: jekyll-theme-midnight
+markdown: kramdown
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
