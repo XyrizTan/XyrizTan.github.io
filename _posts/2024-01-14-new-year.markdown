@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "New year, new domain renewal"
+date:   2021-01-14 14:10:40 +0800
+categories: life update
+---
+
+I almost forgot I had this domain! I decided to write more stuff in here with learnings I have in daily life be it fur-parenting, tech and career, or even sharing odd solutions to odd problems!
+
+I have been laid off at my last job almost a year ago and using the somehow generous severance package (for someone who have only worked there for a little over a year) we bought a house in my wife's hometown back in our country and we have been enjoying a rather peaceful and steady life, a big step towards the life we want to live, oh and also we got a puppy 2 months ago (!!!) his name is Baobao 宝宝 which is Mandarin for baby/darling.
+
+For this 2024, I'm readying again to re-join the workforce! To start off, I'll be pimping up this site slowly but surely, trying to explore simple website maintenance and development with a tangible project and to make myself more inclined to write consistent posts.
+
+That's all for now!
