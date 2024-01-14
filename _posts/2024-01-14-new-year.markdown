@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "New year, new domain renewal"
-date:   2021-01-14 14:10:40 +0800
+date:   2024-01-14 14:10:40 +0800
 categories: life update
 ---
 
