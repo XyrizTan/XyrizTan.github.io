@@ -13,4 +13,4 @@ I entered my sweatpants era (because mosquitoes looove me and I want something t
 
 Update: Champion Powerblend is pretty great too, deep pockets, fashionable fit, though the fabric feels a bit scratchy?
 
-![baobao](/assets/2024-01-30-baobao.jpeg)
+![baobao](/assets/2024-01-30-dogs-and-sweatpants/2024-01-30-baobao.jpeg)
